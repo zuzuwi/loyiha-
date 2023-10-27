@@ -1,0 +1,15 @@
+#boll{
+    width: 100%;
+    max-width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 50%;
+    transition: 0.3s;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 250px;
+}
